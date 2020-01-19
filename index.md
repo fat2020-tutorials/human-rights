@@ -1,5 +1,5 @@
 
-### Translation tutorial presented by: Corinne Cath-Speth, Mark Latonero, Vidushi Marda, Roya Pakzad
+### Translation tutorial presented by:Corinne Cath-Speth, Mark Latonero, Vidushi Marda, Roya Pakzad
 
 This tutorial discusses how human rights frameworks can inform, guide and govern AI policy and practice in a manner that is complementary to Fairness, Accountability, Transparency, and Ethics (FATE) frameworks. 
 

@@ -16,13 +16,13 @@ By looking at international human rights standards, national frameworks, and loc
 We will spend the first thirty-minute of the tutorial to cover the following topics:
 
 - A brief introduction to human rights framework and its history in relation to digital technologies; Human rights and ethical frameworks in AI: commonalities and differences.
-  - Delivered by Corinne Cath-Speth, Cultural Anthropologist and doctoral student at the Oxford Internet Institute (OII); Alan Turing Institute (ATI); and Mark Latonero, Research Lead for Human Rights at Data & Society; Fellow at Harvard Kennedy School’s Carr Center for Human Rights Policy
+  - Delivered by [Corinne Cath-Speth](https://corinnecath.com/), Cultural Anthropologist and doctoral student at the Oxford Internet Institute (OII); Alan Turing Institute (ATI); and [Mark Latonero](https://datasociety.net/people/latonero-mark/), Research Lead for Human Rights at Data & Society; Fellow at Harvard Kennedy School’s Carr Center for Human Rights Policy
 
 - The international human rights law: AI regulations and states’ responsibilities 
-  - Delivered by Vidushi Marda, Legal researcher and Program Officer at ARTICLE 19‘s Team Digital
+  - Delivered by [Vidushi Marda](http://vidushimarda.com/), Legal researcher and Program Officer at ARTICLE 19‘s Team Digital
 
 - The UN Guiding Principles on Business and Human Rights: Private sector responsibilities
-  - Delivered by Roya Pakzad, Human rights and technology researcher; director and founder of Taraaz
+  - Delivered by [Roya Pakzad](https://www.royapakzad.co/), Human rights and technology researcher; director and founder of Taraaz
 
 The remaining 60 minutes will consist of an activity moderated by all four presenters.
 

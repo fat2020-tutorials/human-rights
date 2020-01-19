@@ -30,7 +30,8 @@ The remaining 60 minutes will consist of an activity moderated by all four prese
 
 The tutorial is designed for the general ACM FAT* community:
  
-- Legal scholars and civil society advocates can benefit from this tutorial by applying human rights frameworks to governance of AI – not just as another voluntary ethical framework, but as a legal framework grounded in international human rights law. They can also learn how human rights frameworks can help them with stronger advocacy campaigns and regulatory proposals.  
+- Legal scholars and civil society advocates can benefit from this tutorial by applying human rights frameworks to governance of AI – not just as another voluntary ethical framework, but as a legal framework grounded in international human rights law. They can also learn how human rights frameworks can help them with stronger advocacy campaigns and regulatory proposals. 
+
 - Machine learning researchers/practitioners can benefit from this tutorial by learning how to use human rights frameworks to proactively assess the risks of designing, developing, and deploying certain tools against society’s most vulnerable groups. They will learn how practices such as human rights impact assessments can complement and strengthen current practices in algorithmic impact assessments, value-sensitive and human-centric design.
 
 ### Slides

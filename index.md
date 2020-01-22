@@ -35,4 +35,4 @@ The tutorial is designed for the general ACM FAT* community:
 
 ### Slides
 
-Slides for this tutorial will be available here.
+Slides for this tutorial is available [here](https://docs.google.com/presentation/d/0B0dtc45vZ8CzQ2Qzai1yLVZzVUdqQ20xNDZ1UExyRFpTdHpz/edit#slide=id.g6df88204f3_1_48).
